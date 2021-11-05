@@ -1,0 +1,36 @@
+@media(max-width: 1400px){
+    .list-tec{
+        gap: 18px;
+    }
+}
+
+
+@media(max-width: 1220px){
+    .proyects__container{
+        gap: 30px;
+    }
+}
+@media(max-width:850px){
+    .contact__container{
+        flex-direction: column;
+        gap: 30px;
+    }
+}
+@media(max-width:560px){
+    .networks__img{
+        width: 24px;
+        height: 24px;
+    }
+    .fixed{
+        left:0%;
+    }
+
+}
+@media(max-width:500px){
+    .list-tec li{
+        width: 120px;
+        height: 120px;
+        font-size: 16px;
+    }
+}
+
